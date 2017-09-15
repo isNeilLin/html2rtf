@@ -4,6 +4,8 @@
 ## install
 
 `npm install html2rtf --save`
+or
+`yarn add html2rtf`
 
 ## Example
 
