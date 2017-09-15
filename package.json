@@ -1,0 +1,22 @@
+{
+  "name": "html2rtf",
+  "version": "0.1.0",
+  "description": "convert html to rtf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isNeilLin/html2rtf.git"
+  },
+  "keywords": [
+    "rtf"
+  ],
+  "dependencies": {
+    "fast-html-parser": "^1.0.1",
+    "urlencode": "^1.1.0"
+  },
+  "author": "Lin Pengfei",
+  "license": "ISC"
+}
