@@ -14,7 +14,7 @@ const html2rtf = require('html2rtf');
 const path = require('path');
 const filename = path.join(__dirname,'example.rtf');
 const html = `<div>
-    <p>Welcome to RTF!</p>
+    <p>Welcome to RTF!</p>
     <p>This is a example</p>
 </div>`;
 html2rtf(html,filename).then(res=>{
